@@ -107,5 +107,3 @@ def kleinberg(offsets, s=2, gamma=1):
 		stack_counter -= 1
 
 	return bursts
-
-print kleinberg([1.1,5,9.5,10,11,12,20,30,40,41,42,43,44,50,52,55, 123, 324, 24323, 2000])
