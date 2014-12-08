@@ -107,3 +107,4 @@ def kleinberg(offsets, s=2, gamma=1):
 		stack_counter -= 1
 
 	return bursts
+	
